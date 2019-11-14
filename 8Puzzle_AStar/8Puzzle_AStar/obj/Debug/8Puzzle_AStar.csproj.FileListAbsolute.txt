@@ -1,0 +1,13 @@
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\obj\Debug\8Puzzle_AStar.csprojAssemblyReference.cache
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\obj\Debug\8Puzzle_AStar.csproj.CoreCompileInputs.cache
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\8Puzzle_AStar.exe.config
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\8Puzzle_AStar.exe
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\8Puzzle_AStar.pdb
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\C5.dll
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\C5.xml
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\obj\Debug\8Puzzle_AStar.csproj.CopyComplete
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\obj\Debug\8Puzzle_AStar.exe
+C:\Users\Shubhangi\source\repos\8Puzzle_AStar\8Puzzle_AStar\obj\Debug\8Puzzle_AStar.pdb
